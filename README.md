@@ -1,2 +1,2 @@
 # TKTOnto
-SPARQL validation and causal reasoning experiments for "On Modelling State Causality in OntoUML" (IEEE Access 2025
+TKTOnto: Tacit Knowledge Tree Onto - Causal modelling framework for OntoUML in CPS
