@@ -1,0 +1,8 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ontouml: <http://ontouml.org/ontouml#>
+
+SELECT ?entity WHERE {
+    ?entity rdf:type ontouml:Kind .
+    ?entity ontouml:participatesIn ?event .
+    ?event ontouml:causesStateChange ?hvacPhase .
+}
