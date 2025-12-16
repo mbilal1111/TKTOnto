@@ -66,3 +66,6 @@ Exact versions are documented in `tools/`.
 ## License
 
 License information will be added prior to final archival.
+
+All artefacts required to reproduce the methodology, models, and evaluation
+are publicly available and archived at Zenodo (DOI: 10.5281/zenodo.17948931).
