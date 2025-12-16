@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "On Modelling State Causality in OntoUML"
+authors:
+  - family-names: Bilal
+    given-names: Muhammad
+version: 1.0.0
+date-released: 2025-07-01
+repository-code: https://github.com/mbilal1111/TKTOnto
